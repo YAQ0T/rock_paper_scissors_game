@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="ComputerMove.h" />
     <ClInclude Include="general_librarys.h" />
+    <ClInclude Include="UserMove.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

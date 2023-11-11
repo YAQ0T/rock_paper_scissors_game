@@ -26,5 +26,8 @@
     <ClInclude Include="general_librarys.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="UserMove.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
